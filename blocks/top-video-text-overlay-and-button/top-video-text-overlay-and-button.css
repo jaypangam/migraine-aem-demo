@@ -2,7 +2,8 @@
 .video-wrapper
 {
   width: 100% !important;
-  max-width: 100% !important;
+  max-width: 1200px !important;
+  margin:  0 auto;
 }
 
 .video-js {
@@ -33,7 +34,7 @@
 
 
 .desktop-video .video-js {
-  padding-top: 51.86%;
+  padding-top: 51.55%;
   height: 0;
   /* margin-top: -47px; */
 }
